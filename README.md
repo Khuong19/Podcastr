@@ -10,10 +10,6 @@ AI Podcast Platform - A cutting-edge AI SaaS platform that enables users to crea
 - [⚙️ Tech Stack](#️-tech-stack)  
 - [🔋 Features](#-features)  
 - [🤸 Quick Start](#-quick-start)  
-- [🕸️ Snippets (Code to Copy)](#%EF%B8%8F-snippets-code-to-copy)  
-- [🔗 Assets](#-assets)  
-- [🚀 More](#-more)  
-- [🚨 Tutorial](#-tutorial)  
 - [🎨 Design Considerations](#-design-considerations)  
 
 ---
