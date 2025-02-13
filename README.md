@@ -15,9 +15,6 @@ AI Podcast Platform - A cutting-edge AI SaaS platform that enables users to crea
 - [🚀 More](#-more)  
 - [🚨 Tutorial](#-tutorial)  
 - [🎨 Design Considerations](#-design-considerations)  
-- [🤝 Contribution](#-contribution)  
-- [📄 License](#-license)  
-- [📞 Contact](#-contact)  
 
 ---
 
@@ -97,26 +94,6 @@ Open `http://localhost:3000` in your browser to view the project.
 
 
 ## 🎨 Design Considerations  
-(Optional) Include design details like color schemes, typography, or design inspirations.  
-
----
-
-## 🤝 Contribution  
-Contributions are always welcome!  
-
-1. Fork the repository  
-2. Create a new branch (`git checkout -b feature/new-feature`)  
-3. Make your changes  
-4. Commit your changes (`git commit -m 'Add new feature'`)  
-5. Push to the branch (`git push origin feature/new-feature`)  
-6. Open a pull request  
+(https://www.figma.com/design/oNDghANb9Swr6K4nynQ1BF/Podcastr---AI-Podcast-App?node-id=0-1&t=d2OAPK0ZagFAxqFm-1)
 
 
----
-
-### How to Use:  
-1. Copy the above code and paste it into your `README.md` file.  
-2. Replace all placeholder text (like `<repository-url>`, `example@example.com`, and `@yourhandle`) with relevant details about your project.  
-3. Commit and push the changes to your GitHub repository.  
-
-You can modify the sections or add more details to tailor it to your project’s needs. If you need more customization, let me know!
